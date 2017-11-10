@@ -28,7 +28,7 @@ module Sprockets
         end
         return result
       end
-      
+
       private
 
       def default_mappings(lines)
